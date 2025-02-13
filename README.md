@@ -156,10 +156,10 @@ graph TD
 
 | Quarter | Milestone | Status |
 |---------|-----------|---------|
-| Q4 2023 | Testnet Launch | 🟡 In Progress |
-| Q1 2024 | Cross-Chain Mining | 🔵 Planned |
-| Q2 2024 | InfraDAO Launch | 🔵 Planned |
-| Q3 2024 | Mainnet Release | 🔵 Planned |
+| Q4 2025 | Testnet Launch | 🟢 Completed |
+| Q1 2025 | Cross-Chain Mining | 🟢 Completed |
+| Q2 2025 | InfraDAO Launch | 🟡 In Progress |
+| Q3 2025 | Mainnet Release | 🟡 In Progress |
 
 ## 🤝 Community
 
