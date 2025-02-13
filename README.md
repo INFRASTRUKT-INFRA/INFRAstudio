@@ -183,6 +183,6 @@ INFRASTRUKT is released under the MIT License. See the [LICENSE](LICENSE) file f
 
 **Built with ❤️ by [INFRA Labs](https://infralabs.dev)**
 
-[Website](https://infrastrukt.dev) • [Documentation](https://docs.infrastrukt.dev) • [GitHub](https://github.com/infrastrukt)
+[Website](https://infrastrukt.dev) • [Documentation](https://docs.infrastrukt.dev) • [GitHub](https://github.com/INFRASTRUKT-INFRA)
 
 </div># INFRAstudio
